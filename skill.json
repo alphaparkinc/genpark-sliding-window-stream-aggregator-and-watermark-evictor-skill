@@ -1,0 +1,11 @@
+{
+  "name": "genpark-sliding-window-stream-aggregator-and-watermark-evictor-skill",
+  "version": "1.0.0",
+  "description": "Aggregates real-time agent telemetry event streams across sliding time windows with event-time watermark tracking and out-of-order eviction",
+  "entrypoint": "client.py",
+  "author": "GenPark",
+  "homepage": "https://www.genpark.ai",
+  "linkedin": "https://www.linkedin.com/company/92955550",
+  "linkedin_page": "https://www.llinkedin.com/company/92955550",
+  "license": "MIT"
+}
